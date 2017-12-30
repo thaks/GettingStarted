@@ -1,1 +1,2 @@
 This is the second file
+thsi is amazing. buddy the git 
