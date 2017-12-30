@@ -1,2 +1,3 @@
 This is the second file
-thsi is amazing. buddy the git 
+thsi is amazing. buddy the git
+fi
